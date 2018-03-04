@@ -20,7 +20,6 @@ For use my enviroment run this code in after installed anaconda with python 3.6.
 
 Use 'movie.ipynb' which is jupyter notebook to train your model. After saved model use drive.py
 
-
 ### `drive.py`
 
 Usage of `drive.py` requires you have saved the trained model as an h5 file, i.e. `model.h5`.
@@ -77,3 +76,8 @@ python video.py run1 --fps 48
 
 Will run the video at 48 FPS. The default FPS is 60.
 
+This is the link of video after full training and after preprocessing-data augmentation phase:
+https://www.youtube.com/watch?v=pPC6NiiUs1M
+
+The video link before preprocessing-data augmentation phase but full trained:
+https://www.youtube.com/watch?v=tp4NXTzvnoE
